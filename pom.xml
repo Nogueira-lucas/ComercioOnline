@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<spring>5.1.8.RELEASE</spring>
+		<spring>5.2.3.RELEASE</spring>
 	</properties>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
